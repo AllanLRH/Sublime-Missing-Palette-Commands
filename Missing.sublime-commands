@@ -155,4 +155,12 @@
 
     // Misc (not in menu)
     { "caption": "Reveal Current File in Side Bar", "command": "reveal_in_side_bar" }
+
+    // Plugins
+    {"caption": "AceJump: Word", "command": "ace_jump_word"},
+    {"caption": "AceJump: Char", "command": "ace_jump_char"},
+    {"caption": "AceJump: Line", "command": "ace_jump_line"},
+    {"caption": "AceJump: Select", "command": "ace_jump_select"},
+    {"caption": "AceJump: Add cursor", "command": "ace_jump_add_cursor"}
 ]
+
